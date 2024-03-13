@@ -16,8 +16,9 @@ this version of Moodle supports the following database servers. Again, version n
 |[Oracle Database](http://www.oracle.com/us/products/database/overview/index.html) |	19 (increased since Moodle 4.0) | Latest|
 
 ## Preview
-![IMG](https://github.com/codeurzebs/ngcodex-moodle-4.1/blob/master/image-preview/Loginpage.PNG?raw=true)
-![IMG](https://github.com/codeurzebs/ngcodex-moodle-4.1/blob/master/image-preview/Dashboardpage.PNG?raw=true)
+![IMG](https://github.com/codeurzebs/ngcodex-moodle-4.1/blob/master/image-preview/125.PNG?raw=true)
+![IMG](https://github.com/codeurzebs/ngcodex-moodle-4.1/blob/master/image-preview/455.PNG?raw=true)
+![IMG](https://github.com/codeurzebs/ngcodex-moodle-4.1/blob/master/image-preview/7856.PNG?raw=true)
 
 ## Documentation
 
